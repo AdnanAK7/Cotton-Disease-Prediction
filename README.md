@@ -1,4 +1,4 @@
-# Cotton-Disease-Prediction
+# Cotton-Disease-Detection
 Cotton leaves disease prediction using CNN (using transfer learning with InceptionV3 and without transfer learning)
 
 Dataset - https://drive.google.com/drive/folders/1vdr9CC9ChYVW2iXp6PlfyMOGD-4Um1ue
